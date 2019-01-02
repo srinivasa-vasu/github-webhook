@@ -1,6 +1,6 @@
 ---
 applications:
-- name: sv-github-webhook
+- name: github-webhook
   services:
     - github-rabbitmq
     - github-eureka
